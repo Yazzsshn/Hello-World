@@ -1,2 +1,2 @@
 # Hello-World
-Hi, this is my first code with java
+Hi, this is simple code project that prints boxes as many as we want.
